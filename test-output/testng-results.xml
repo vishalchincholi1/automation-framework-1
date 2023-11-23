@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-10-16T18:27:12 IST" name="Suite" finished-at="2023-10-16T18:28:06 IST" duration-ms="53687">
+    <groups>
+    </groups>
+    <test started-at="2023-10-16T18:27:12 IST" name="Test" finished-at="2023-10-16T18:28:06 IST" duration-ms="53687">
+      <class name="pom.test.Prerak_Edit_Test">
+        <test-method is-config="true" signature="generatereport()[pri:0, instance:pom.test.Prerak_Edit_Test@7d61eb55]" started-at="2023-10-16T18:27:12 IST" name="generatereport" finished-at="2023-10-16T18:27:12 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- generatereport -->
+        <test-method is-config="true" signature="setupopen()[pri:0, instance:pom.test.Prerak_Edit_Test@7d61eb55]" started-at="2023-10-16T18:27:25 IST" name="setupopen" finished-at="2023-10-16T18:27:26 IST" duration-ms="733" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupopen -->
+        <test-method signature="PM_PPE_PP_PrerakHome(java.lang.reflect.Method)[pri:0, instance:pom.test.Prerak_Edit_Test@7d61eb55]" started-at="2023-10-16T18:27:26 IST" name="PM_PPE_PP_PrerakHome" finished-at="2023-10-16T18:27:45 IST" duration-ms="18688" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void pom.test.Prerak_Edit_Test.PM_PPE_PP_PrerakHome(java.lang.reflect.Method)]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PM_PPE_PP_PrerakHome -->
+        <test-method is-config="true" signature="setupclose(org.testng.ITestResult)[pri:0, instance:pom.test.Prerak_Edit_Test@7d61eb55]" started-at="2023-10-16T18:27:45 IST" name="setupclose" finished-at="2023-10-16T18:27:45 IST" duration-ms="57" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=PM_PPE_PP_PrerakHome status=SUCCESS method=Prerak_Edit_Test.PM_PPE_PP_PrerakHome(java.lang.reflect.Method)[pri:0, instance:pom.test.Prerak_Edit_Test@7d61eb55] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupclose -->
+        <test-method is-config="true" signature="setupopen()[pri:0, instance:pom.test.Prerak_Edit_Test@7d61eb55]" started-at="2023-10-16T18:27:45 IST" name="setupopen" finished-at="2023-10-16T18:27:46 IST" duration-ms="738" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupopen -->
+        <test-method signature="PM_PPE_PP_EditPrerakDetails_editName(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.reflect.Method)[pri:1, instance:pom.test.Prerak_Edit_Test@7d61eb55]" started-at="2023-10-16T18:27:46 IST" name="PM_PPE_PP_EditPrerakDetails_editName" data-provider="editName" finished-at="2023-10-16T18:28:05 IST" duration-ms="19719" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Varun]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Vishwas]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Bhosale]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[1995]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[04]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[16]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[public void pom.test.Prerak_Edit_Test.PM_PPE_PP_EditPrerakDetails_editName(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.reflect.Method)]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PM_PPE_PP_EditPrerakDetails_editName -->
+        <test-method is-config="true" signature="setupclose(org.testng.ITestResult)[pri:0, instance:pom.test.Prerak_Edit_Test@7d61eb55]" started-at="2023-10-16T18:28:05 IST" name="setupclose" finished-at="2023-10-16T18:28:05 IST" duration-ms="59" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=PM_PPE_PP_EditPrerakDetails_editName status=SUCCESS method=Prerak_Edit_Test.PM_PPE_PP_EditPrerakDetails_editName(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.reflect.Method)[pri:1, instance:pom.test.Prerak_Edit_Test@7d61eb55] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupclose -->
+        <test-method is-config="true" signature="reportFlush()[pri:0, instance:pom.test.Prerak_Edit_Test@7d61eb55]" started-at="2023-10-16T18:28:05 IST" name="reportFlush" finished-at="2023-10-16T18:28:06 IST" duration-ms="28" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reportFlush -->
+      </class> <!-- pom.test.Prerak_Edit_Test -->
+      <class name="pom.test.Prerak_Login_Test">
+        <test-method is-config="true" signature="generatereport()[pri:0, instance:pom.test.Prerak_Login_Test@34129c78]" started-at="2023-10-16T18:27:12 IST" name="generatereport" finished-at="2023-10-16T18:27:12 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- generatereport -->
+        <test-method is-config="true" signature="setupopen()[pri:0, instance:pom.test.Prerak_Login_Test@34129c78]" started-at="2023-10-16T18:27:20 IST" name="setupopen" finished-at="2023-10-16T18:27:21 IST" duration-ms="775" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupopen -->
+        <test-method signature="LM_L_LP(java.lang.String,java.lang.String,java.lang.reflect.Method)[pri:0, instance:pom.test.Prerak_Login_Test@34129c78]" started-at="2023-10-16T18:27:21 IST" name="LM_L_LP" data-provider="prerak_login" finished-at="2023-10-16T18:27:25 IST" duration-ms="4263" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[varunb_b_9960051486]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[@6qFUHkji]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[public void pom.test.Prerak_Login_Test.LM_L_LP(java.lang.String,java.lang.String,java.lang.reflect.Method)]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LM_L_LP -->
+        <test-method is-config="true" signature="setupclose(org.testng.ITestResult)[pri:0, instance:pom.test.Prerak_Login_Test@34129c78]" started-at="2023-10-16T18:27:25 IST" name="setupclose" finished-at="2023-10-16T18:27:25 IST" duration-ms="55" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=LM_L_LP status=SUCCESS method=Prerak_Login_Test.LM_L_LP(java.lang.String,java.lang.String,java.lang.reflect.Method)[pri:0, instance:pom.test.Prerak_Login_Test@34129c78] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupclose -->
+        <test-method is-config="true" signature="reportFlush()[pri:0, instance:pom.test.Prerak_Login_Test@34129c78]" started-at="2023-10-16T18:27:25 IST" name="reportFlush" finished-at="2023-10-16T18:27:25 IST" duration-ms="23" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reportFlush -->
+      </class> <!-- pom.test.Prerak_Login_Test -->
+      <class name="pom.test.Ip_Login_Test">
+        <test-method is-config="true" signature="generatereport()[pri:0, instance:pom.test.Ip_Login_Test@5852c06f]" started-at="2023-10-16T18:27:12 IST" name="generatereport" finished-at="2023-10-16T18:27:12 IST" duration-ms="193" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- generatereport -->
+        <test-method is-config="true" signature="setupopen()[pri:0, instance:pom.test.Ip_Login_Test@5852c06f]" started-at="2023-10-16T18:27:13 IST" name="setupopen" finished-at="2023-10-16T18:27:16 IST" duration-ms="2931" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupopen -->
+        <test-method signature="LM_L_LIP(java.lang.String,java.lang.String,java.lang.reflect.Method)[pri:0, instance:pom.test.Ip_Login_Test@5852c06f]" started-at="2023-10-16T18:27:16 IST" name="LM_L_LIP" data-provider="EG_login" finished-at="2023-10-16T18:27:20 IST" duration-ms="4394" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[eg_admin]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[EgAdmiN1]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[public void pom.test.Ip_Login_Test.LM_L_LIP(java.lang.String,java.lang.String,java.lang.reflect.Method)]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LM_L_LIP -->
+        <test-method is-config="true" signature="setupclose(org.testng.ITestResult)[pri:0, instance:pom.test.Ip_Login_Test@5852c06f]" started-at="2023-10-16T18:27:20 IST" name="setupclose" finished-at="2023-10-16T18:27:20 IST" duration-ms="63" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=LM_L_LIP status=SUCCESS method=Ip_Login_Test.LM_L_LIP(java.lang.String,java.lang.String,java.lang.reflect.Method)[pri:0, instance:pom.test.Ip_Login_Test@5852c06f] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupclose -->
+        <test-method is-config="true" signature="reportFlush()[pri:0, instance:pom.test.Ip_Login_Test@5852c06f]" started-at="2023-10-16T18:27:20 IST" name="reportFlush" finished-at="2023-10-16T18:27:20 IST" duration-ms="207" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reportFlush -->
+      </class> <!-- pom.test.Ip_Login_Test -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

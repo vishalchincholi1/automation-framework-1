@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT" verbose="0">
+  <test thread-count="5" name="Test(failed)" verbose="0">
+    <classes>
+      <class name="pom.test.Prerak_Login_Test">
+        <methods>
+          <include name="generatereport"/>
+          <include name="setupopen"/>
+          <include name="setupclose"/>
+          <include name="reportFlush"/>
+          <include name="LM_L_LP" invocation-numbers="0"/>
+        </methods>
+      </class> <!-- pom.test.Prerak_Login_Test -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

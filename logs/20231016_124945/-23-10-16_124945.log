@@ -1,0 +1,72 @@
+[2023-10-16 12:49:45] [INFO   ] Generating Test Report 
+[2023-10-16 12:49:45] [INFO   ] Generating test report 
+[2023-10-16 12:49:45] [INFO   ] Generating test report 
+[2023-10-16 12:49:45] [INFO   ] Fetching data from the data provider 'EG_login' 
+[2023-10-16 12:49:46] [INFO   ] Setting up the browser... 
+[2023-10-16 12:49:48] [INFO   ] Started measuring time 2023-10-16T07:19:48.109525694Z 
+[2023-10-16 12:49:48] [INFO   ] Executing LM_L_LIP Test Cases 
+[2023-10-16 12:49:48] [INFO   ] Executing login test cases... 
+[2023-10-16 12:49:48] [INFO   ] Entering username: eg_admin 
+[2023-10-16 12:49:49] [INFO   ] Entering password... 
+[2023-10-16 12:49:49] [INFO   ] Clicking on login button... 
+[2023-10-16 12:49:51] [INFO   ] Clicking Logout... 
+[2023-10-16 12:49:51] [INFO   ] IP Login test cases executed successfully. 
+[2023-10-16 12:49:51] [INFO   ] LM_L_LIP Test Cases Execution Completed 
+[2023-10-16 12:49:51] [INFO   ] Time elapsed - [In milli-seconds: 3791] [In seconds:3.791] 
+[2023-10-16 12:49:52] [INFO   ] Fetching data from the data provider 'prerak_login' 
+[2023-10-16 12:49:52] [INFO   ] Setting up the browser... 
+[2023-10-16 12:49:53] [INFO   ] Started measuring time 2023-10-16T07:19:53.512187655Z 
+[2023-10-16 12:49:53] [INFO   ] Executing LM_L_LP method 
+[2023-10-16 12:49:53] [INFO   ] Executing prerak login LM_L_LP test 
+[2023-10-16 12:49:53] [INFO   ] Entering username: varunb_b_9960051486 
+[2023-10-16 12:49:54] [INFO   ] Entering password... 
+[2023-10-16 12:49:55] [INFO   ] Clicking on login button... 
+[2023-10-16 12:49:57] [INFO   ] Clicking Logout... 
+[2023-10-16 12:49:57] [INFO   ] Login test LM_L_LP executed successfully. 
+[2023-10-16 12:49:57] [INFO   ] Test execution of LM_L_LP completed 
+[2023-10-16 12:49:57] [INFO   ] Time elapsed - [In milli-seconds: 4290] [In seconds:4.29] 
+[2023-10-16 12:49:57] [INFO   ] Setting up the browser... 
+[2023-10-16 12:49:59] [INFO   ] Started measuring time 2023-10-16T07:19:59.019439629Z 
+[2023-10-16 12:49:59] [INFO   ] PM_PPE_PP_PrerakHome method 
+[2023-10-16 12:49:59] [INFO   ] Executing common login... 
+[2023-10-16 12:49:59] [INFO   ] Entering username: varunb_b_9960051486 
+[2023-10-16 12:50:00] [INFO   ] Entering password... 
+[2023-10-16 12:50:00] [INFO   ] Clicking on login button... 
+[2023-10-16 12:50:01] [INFO   ] Common login executed successfully. 
+[2023-10-16 12:50:01] [INFO   ] Executing PM_PPE_PP_PrerakProfileEdit test cases... 
+[2023-10-16 12:50:03] [INFO   ] Clicking sidebar 
+[2023-10-16 12:50:04] [INFO   ] Clicking Profile 
+[2023-10-16 12:50:07] [INFO   ] Clicking editBasicDetails 
+[2023-10-16 12:50:08] [INFO   ] Clicking editName 
+[2023-10-16 12:50:09] [INFO   ] Clicking editContactDetails 
+[2023-10-16 12:50:11] [INFO   ] Clicking editAddressDetails 
+[2023-10-16 12:50:13] [INFO   ] Clicking editPersonalDetails 
+[2023-10-16 12:50:14] [INFO   ] Clicking editReferenceDetails 
+[2023-10-16 12:50:16] [INFO   ] Clicking editOtherDetails 
+[2023-10-16 12:50:17] [INFO   ] PM_PPE_PP_PrerakProfileEdit executed successfully. 
+[2023-10-16 12:50:17] [INFO   ] Test case execution completed 
+[2023-10-16 12:50:17] [INFO   ] Time elapsed - [In milli-seconds: 18764] [In seconds:18.764] 
+[2023-10-16 12:50:17] [INFO   ] Fetching data from the data provider 'editName' 
+[2023-10-16 12:50:18] [INFO   ] Setting up the browser... 
+[2023-10-16 12:50:19] [INFO   ] Started measuring time 2023-10-16T07:20:19.383430811Z 
+[2023-10-16 12:50:19] [INFO   ] EditPrerakDetails_PM_PPE_PP_editName method 
+[2023-10-16 12:50:19] [INFO   ] Executing common login... 
+[2023-10-16 12:50:19] [INFO   ] Entering username: varunb_b_9960051486 
+[2023-10-16 12:50:20] [INFO   ] Entering password... 
+[2023-10-16 12:50:21] [INFO   ] Clicking on login button... 
+[2023-10-16 12:50:21] [INFO   ] Common login executed successfully. 
+[2023-10-16 12:50:21] [INFO   ] Executing PM_PPE_PP_editName test cases... 
+[2023-10-16 12:50:23] [INFO   ] Clicking sidebar 
+[2023-10-16 12:50:24] [INFO   ] Clicking Profile 
+[2023-10-16 12:50:27] [INFO   ] Clicking editBasicDetails 
+[2023-10-16 12:50:28] [INFO   ] Clicking editName 
+[2023-10-16 12:50:29] [INFO   ] Entering First Name 
+[2023-10-16 12:50:31] [INFO   ] Entering Middle Name 
+[2023-10-16 12:50:33] [INFO   ] Entering Last Name 
+[2023-10-16 12:50:34] [INFO   ] Selecting Year 
+[2023-10-16 12:50:35] [INFO   ] Selecting Month 
+[2023-10-16 12:50:36] [INFO   ] Selecting Day 
+[2023-10-16 12:50:38] [INFO   ] Clicking Save 
+[2023-10-16 12:50:39] [INFO   ] PM_PPE_PP_editName Test executed successfully. 
+[2023-10-16 12:50:39] [INFO   ] PM_PPE_PP_editName Test case execution completed 
+[2023-10-16 12:50:39] [INFO   ] Time elapsed - [In milli-seconds: 19731] [In seconds:19.731] 
